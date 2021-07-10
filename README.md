@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **Responsive Web Design and React**
 
-- 👨‍💻 All of my projects are available at [GitHub](GitHub)
-
 - 📫 How to reach me **hello@josepaul.dev**
 
-- ⚡ Fun fact **fan of CLI**
+- ⚡ Fun fact **I'm a fan of CLI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
