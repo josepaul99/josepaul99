@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Paul</h1>
 <h3 align="center">A recent software engineering graduate</h3>
 
-- 🔭 I’m currently working on **some cool stuff**
-
-- 🌱 I’m currently learning **Responsive Web Design and React**
+- 🌱 I’m currently learning **MS Stack**
 
 - 📫 How to reach me **hello@josepaul.dev**
 
